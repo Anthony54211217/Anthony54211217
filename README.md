@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Anthony. I am currently studying at the University of Toronto majoring in Finance/Economics and minoring in Computer Science. 
-- I am particularly interested in capital markets and trading. I am hoping to land a career in prop trading.
+- I am particularly interested in capital markets and trading. 
