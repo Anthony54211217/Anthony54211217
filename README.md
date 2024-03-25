@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Anthony. I am currently studying at the University of Toronto majoring in Finance/Economics and minoring in Computer Science. 
+- 👋 Hi, I’m Anthony. I am currently studying at the University of Toronto double majoring in Computer Science and Finance/Economics.
 - I am particularly interested in capital markets and trading. 
